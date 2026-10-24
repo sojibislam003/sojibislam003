@@ -24,9 +24,9 @@ Welcome to my profile! I specialize in system-level programming with **C Languag
 
 ### 📬 Connect with Me
 
-- **Portfolio**: [Your Portfolio Link Here]
-- **LinkedIn**: [Your LinkedIn Link Here]
-- **Email**: [Your Email Address Here]
+
+- **LinkedIn**: https://www.linkedin.com/in/md-s0jib-islam/
+- **Email**: mdsojibislam7014@gmail.com
 
 ---
 
