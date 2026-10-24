@@ -39,7 +39,7 @@
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUGG4dbv5BLOY1Wo/giphy.gif" width="100%" alt="Developer Workspace" />
+      <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/developer.svg" width="80%" alt="Developer Icon" />
     </td>
   </tr>
 </table>
