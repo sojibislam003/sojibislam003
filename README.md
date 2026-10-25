@@ -2,7 +2,7 @@
 
   <!-- Animated Typing Banner Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F72585&center=true&vcenter=true&width=600&height=70&lines=Hi+%F0%9F%90%B1%E2%80%8D%F0%9F%90%97+I'm+Sojib+Islam;C+Language+Developer;UI%2FUX+Design+Specialist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F72585&center=true&vcenter=true&width=600&height=70&lines=Hi+%F0%9F%90%B1%E2%80%8D%F0%9F%90%97+I'm+Sojib+Islam;Learning+C+Language;UI%2FUX+Design+Specialist" alt="Typing SVG" />
   </a>
 
   <br />
