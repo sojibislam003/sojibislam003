@@ -1,15 +1,18 @@
-<img src="https://raw.githubusercontent.com/sojibislam003/sojibislam003/main/assets/banner.svg"
-     width="100%"
-     alt="Sojib Islam - Developer Banner"/>
 
-<br/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0B1F3A,100:0891B2&height=220&section=header&text=Sojib%20Islam&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=DEVELOPER%20IN%20PROGRESS%20%7C%20BUILD%20%E2%80%A2%20LEARN%20%E2%80%A2%20CREATE&descSize=15&descAlignY=60&animation=fadeIn" width="100%" alt="Sojib Islam banner"/>
 
 ### Aspiring Software Developer | C Programmer | UI/UX Enthusiast
 
 **Building skills. Solving problems. Creating possibilities.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/sojibislam003)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-s0jib-islam/)
+<a href="https://github.com/sojibislam003">
+  <img src="https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE"/>
+</a>
+<a href="https://www.linkedin.com/in/md-s0jib-islam/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
 
@@ -17,57 +20,56 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm **Sojib Islam**, a passionate developer and university student diving deep into software development, efficient logic, and clean design.
+Hello! I'm **Sojib Islam**, a university student interested in software development, problem-solving, and creative technology.
 
-- 💻 Focused on **C programming** and algorithmic problem-solving.
-- 🧠 Active in competitive programming and continuous skill growth.
-- 🌐 Exploring modern web technologies and frontend development.
-- 🎨 Enthusiastic about **UI/UX design** and crafting smooth user experiences.
-- 🚀 Always building, learning, and tackling new challenges.
-
----
-
-## ⚡ Tech Stack
-
-### Programming & Core
-<p>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data_Structures-0891B2?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</p>
-
-### Web Development
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-### Tools & Design
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
+- 🎓 Studying at the National Institute of Textile Engineering and Research (NITER).
+- 💻 Learning C programming and strengthening programming fundamentals.
+- 🧠 Practicing competitive programming and algorithmic problem-solving.
+- 🎨 Interested in UI/UX design and user-centered experiences.
+- 🌐 Exploring frontend development.
+- 🚀 Always learning and working on improving my skills.
 
 ---
 
-## 🎯 Current Goals
+## ⚡ Tech Stack & Tools
 
-- [ ] Master advanced C programming and memory management.
-- [ ] Participate actively in competitive programming contests.
-- [ ] Build seamless, high-performance web applications.
-- [ ] Design intuitive UI/UX prototypes from scratch.
+**Programming & Logic**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c" height="45"/>
+</p>
+
+**Web Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" height="45"/>
+</p>
+
+**Design & Development Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,git,github,vscode" height="45"/>
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## 🎯 Currently Learning
 
-Check out my repositories and open-source contributions:
+- C programming and problem-solving.
+- Data Structures & Algorithms.
+- Competitive programming.
+- HTML, CSS and JavaScript.
+- UI/UX design principles.
+
+---
+
+## 🚀 Featured Project
 
 <div align="center">
 
-[![Repositories](https://img.shields.io/badge/Explore-My_Repositories-0891B2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sojibislam003?tab=repositories)
+<a href="https://github.com/sojibislam003/GridWise">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sojibislam003&repo=GridWise&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE"/>
+</a>
 
 </div>
 
@@ -89,15 +91,15 @@ Check out my repositories and open-source contributions:
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/sojibislam003">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/md-s0jib-islam/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
@@ -106,10 +108,10 @@ Check out my repositories and open-source contributions:
 
 <div align="center">
 
-### 💻 Build. Learn. Create. Repeat.
+### 💻 BUILD. LEARN. CREATE. REPEAT.
 
-*“Great things are built one line of code at a time.”*
+*"Great things are built one line of code at a time."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:082F49,100:0891B2&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,100:020617&height=110&section=footer" width="100%"/>
 
 </div>
