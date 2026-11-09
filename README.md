@@ -1,49 +1,115 @@
 <div align="center">
 
-# Hi there, I'm Md Sojib Islam 👋
+<img src="assets/banner.svg" width="100%" alt="Sojib Islam - Developer Banner"/>
 
-### Crafting efficient logic in C & intuitive experiences through UI/UX Design
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-s0jib-islam/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sojibislam003)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/sojibislam)
+### Aspiring Software Developer | C Programmer | UI/UX Enthusiast
 
-</div>
+**Building skills. Solving problems. Creating possibilities.**
 
----
-
-### 💻 About Me
-
-* 🌱 I'm currently studying at the **National Institute of Textile Engineering and Research (NITER)**[cite: 1].
-* ⚡ Passionate about solving algorithmic problems in **C** and competitive programming.
-* 🎨 Dedicated to building clean, user-centric interfaces and wireframes through **UI/UX Design**.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-| **Programming & Logic** | **Design & Prototyping** | **Development Tools** |
-| :---: | :---: | :---: |
-| ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![UI/UX](https://img.shields.io/badge/UI%2FUX-FF5722?style=for-the-badge&logo=adobe-xd&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-0D1117?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/sojibislam003)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-s0jib-islam/)
 
 </div>
 
 ---
 
-### 📊 Connect & Stats
+## 👨‍💻 About Me
+
+Hello! I'm **Sojib Islam**, a passionate developer and university student diving deep into software development, efficient logic, and clean design.
+
+- 💻 Focused on **C programming** and algorithmic problem-solving.
+- 🧠 Active in competitive programming and continuous skill growth.
+- 🌐 Exploring modern web technologies and frontend development.
+- 🎨 Enthusiastic about **UI/UX design** and crafting smooth user experiences.
+- 🚀 Always building, learning, and tackling new challenges.
+
+---
+
+## ⚡ Tech Stack
+
+### Programming & Core
+<p>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data_Structures-0891B2?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</p>
+
+### Web Development
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+### Tools & Design
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
+
+---
+
+## 🎯 Current Goals
+
+- [ ] Master advanced C programming and memory management.
+- [ ] Participate actively in competitive programming contests.
+- [ ] Build seamless, high-performance web applications.
+- [ ] Design intuitive UI/UX prototypes from scratch.
+
+---
+
+## 🚀 Featured Projects
+
+Check out my repositories and open-source contributions:
 
 <div align="center">
 
-[![GitHub Streak](https://img.shields.io/badge/GitHub-Streak--Graph-blue?style=for-the-badge&logo=github)](https://github.com/sojibislam003)
-[![Codeforces Rating](https://img.shields.io/badge/Codeforces-Active-1F8ACB?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/sojibislam)
+[![Repositories](https://img.shields.io/badge/Explore-My_Repositories-0891B2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sojibislam003?tab=repositories)
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sojibislam003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sojibislam003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE"/>
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=sojibislam003&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE"/>
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/sojibislam003">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/md-s0jib-islam/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
 <div align="center">
-  <i>"Simplicity is the soul of efficiency."</i>
+
+### 💻 Build. Learn. Create. Repeat.
+
+*“Great things are built one line of code at a time.”*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:082F49,100:0891B2&height=100&section=footer"/>
+
 </div>
