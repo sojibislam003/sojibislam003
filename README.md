@@ -11,7 +11,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=sojibislam003&label=Profile%20Views&color=8B5CF6&style=flat-square" alt="Profile views counter" />
 <img src="https://img.shields.io/github/followers/sojibislam003?label=Followers&style=flat-square&color=00E5FF&labelColor=0D1117" alt="GitHub followers" />
-<a href="https://codeforces.com/profile/YOUR_CODEFORCES_HANDLE">
+<a href="https://codeforces.com/profile/sojibislam">
   <img src="https://img.shields.io/badge/Codeforces-Competitor-1F8ACB?style=flat-square&logo=codeforces&logoColor=white&labelColor=0D1117" alt="Codeforces profile" />
 </a>
 <img src="https://img.shields.io/badge/Based%20in-Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9-10B981?style=flat-square&labelColor=0D1117" alt="Based in Bangladesh" />
@@ -41,10 +41,9 @@ I like building things where a solid logic core meets an interface that feels ef
 
 ### 🧠 Logic Side: C & CP
 
-- Algorithmic problem solving on **Codeforces**
-- Array calculations & string processing
-- Elementary number theory
-- Clean, efficient C code with an eye on edge cases
+- Competitive problem solving on **Codeforces**
+- Clean, efficient **C** code
+- Careful thinking about edge cases and correctness
 
 ```c
 while (!solved) {
@@ -104,8 +103,6 @@ An energy optimization service with a dashboard, powered by LLM assistance. Buil
 ![Team](https://img.shields.io/badge/Team-4%20Bits-00E5FF?style=flat-square&labelColor=0D1117)
 ![LLM](https://img.shields.io/badge/LLM-Assisted-10B981?style=flat-square&labelColor=0D1117)
 
-[🔗 View Repository](https://github.com/sojibislam003?tab=repositories&q=GridWise)
-
 </td>
 <td width="33%" valign="top">
 
@@ -117,8 +114,6 @@ A Bengali-language agricultural mobile web app interface with **weather updates 
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-Mobile%20Web-00E5FF?style=flat-square&labelColor=0D1117)
 ![Language](https://img.shields.io/badge/Language-বাংলা-10B981?style=flat-square&labelColor=0D1117)
 ![AI](https://img.shields.io/badge/AI-Chat%20Support-8B5CF6?style=flat-square&labelColor=0D1117)
-
-[🔗 View Repository](https://github.com/sojibislam003?tab=repositories&q=BanglaAgri)
 
 </td>
 <td width="33%" valign="top">
@@ -132,8 +127,6 @@ A bKash-integrated AI Support Assistant chat interface prototype, built for **SU
 ![Prototype](https://img.shields.io/badge/Type-Chat%20UI%20Prototype-00E5FF?style=flat-square&labelColor=0D1117)
 ![bKash](https://img.shields.io/badge/Integration-bKash-E2136E?style=flat-square&labelColor=0D1117)
 
-[🔗 View Repository](https://github.com/sojibislam003?tab=repositories&q=QueueStorm)
-
 </td>
 </tr>
 </table>
@@ -145,18 +138,11 @@ A bKash-integrated AI Support Assistant chat interface prototype, built for **SU
 
 <div align="center">
 
-<a href="https://codeforces.com/profile/YOUR_CODEFORCES_HANDLE">
+<a href="https://codeforces.com/profile/sojibislam">
   <img src="https://img.shields.io/badge/Codeforces-View%20My%20Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0D1117" alt="View my Codeforces profile" />
 </a>
 
 </div>
-
-| Focus Area | What I practice |
-|:--|:--|
-| 🔢 **Arrays** | Calculations, prefix sums, traversal patterns |
-| 🔤 **Strings** | Parsing, processing, character manipulation |
-| ➗ **Number Theory** | GCD/LCM, divisibility, parity, modular basics |
-| ⚙️ **Language** | C, with focus on correctness and speed |
 
 <br/>
 
@@ -184,11 +170,11 @@ A bKash-integrated AI Support Assistant chat interface prototype, built for **SU
 <a href="https://github.com/sojibislam003">
   <img src="https://img.shields.io/badge/GitHub-sojibislam003-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
 </a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+<a href="https://codeforces.com/profile/sojibislam">
+  <img src="https://img.shields.io/badge/Codeforces-sojibislam-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces profile" />
 </a>
-<a href="mailto:YOUR_EMAIL@example.com">
-  <img src="https://img.shields.io/badge/Email-Say%20Hello-00E5FF?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Send an email" />
+<a href="https://www.linkedin.com/in/md-s0jib-islam/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
 </a>
 
 <br/><br/>
