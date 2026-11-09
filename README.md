@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0B1F3A,100:0891B2&height=220&section=header&text=Md Sojib%20Islam&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=DEVELOPER%20IN%20PROGRESS%20%7C%20BUILD%20%E2%80%A2%20LEARN%20%E2%80%A2%20CREATE&descSize=15&descAlignY=60&animation=fadeIn" width="100%" alt="Md Sojib Islam banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0B1F3A,100:0891B2&height=220&section=header&text=Sojib%20Islam&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=DEVELOPER%20IN%20PROGRESS%20%7C%20BUILD%20%E2%80%A2%20LEARN%20%E2%80%A2%20CREATE&descSize=15&descAlignY=60&animation=fadeIn" width="100%" alt="Md Sojib Islam banner"/>
 
 ### Aspiring Software Developer | C Programmer | UI/UX Enthusiast
 
