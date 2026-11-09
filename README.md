@@ -36,11 +36,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sojibislam003&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="Sojib's GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sojibislam003&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=sojibislam003&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Sojib's GitHub Stats" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sojibislam003&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  </p>
 </div>
 
 ---
