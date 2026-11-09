@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:8B5CF6&height=220&section=header&text=Md%20Sojib%20Islam&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Where%20low-level%20logic%20meets%20human-centered%20design&descSize=17&descAlignY=60&animation=fadeIn" alt="Banner: Md Sojib Islam - where low-level logic meets human-centered design" width="100%" />
 
 <a href="https://github.com/sojibislam003">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=640&height=40&lines=C+Programmer+%26+Systems+Thinker;UI%2FUX+Designer+%26+Frontend+Builder;Inter-NITER+Champion+%F0%9F%8F%86;Hackathon+Hacker+%F0%9F%9A%80;Turning+logic+into+interfaces" alt="Animated tagline: C Programmer, UI/UX Designer, Inter-NITER Champion, Hackathon Builder" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=640&height=40&lines=C+Programmer+%26+Systems+Thinker;UI%2FUX+Designer+%26+Frontend+Builder;Hackathon+Hacker+%F0%9F%9A%80;Turning+logic+into+interfaces" alt="Animated tagline: C Programmer, UI/UX Designer, Hackathon Builder" />
 </a>
 
 <br/>
@@ -126,31 +126,6 @@ A bKash-integrated AI Support Assistant chat interface prototype, built for **SU
 </td>
 </tr>
 </table>
-
-<br/>
-
-<!-- ===================== ACHIEVEMENTS ===================== -->
-## 🏅 Achievements
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" valign="top">
-
-### 🏆 Champion
-**Inter-NITER Competition**
-
-Team **Kisu Parina**
-
-![Champion](https://img.shields.io/badge/Inter--NITER-Champion-F5B301?style=flat-square&labelColor=0D1117)
-![Team](https://img.shields.io/badge/Team-Kisu%20Parina-8B5CF6?style=flat-square&labelColor=0D1117)
-
-</td>
-</tr>
-</table>
-
-</div>
 
 <br/>
 
