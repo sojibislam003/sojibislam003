@@ -4,16 +4,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:8B5CF6&height=220&section=header&text=Md%20Sojib%20Islam&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Where%20low-level%20logic%20meets%20human-centered%20design&descSize=17&descAlignY=60&animation=fadeIn" alt="Banner: Md Sojib Islam - where low-level logic meets human-centered design" width="100%" />
 
 <a href="https://github.com/sojibislam003">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=640&height=40&lines=C+Programmer+%26+Codeforces+Enthusiast;UI%2FUX+Designer+%26+Frontend+Builder;Inter-NITER+Champion+%F0%9F%8F%86;Hackathon+Hacker+%F0%9F%9A%80;Turning+algorithms+into+interfaces" alt="Animated tagline: C Programmer, UI/UX Designer, Inter-NITER Champion, Hackathon Builder" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=640&height=40&lines=C+Programmer+%26+Systems+Thinker;UI%2FUX+Designer+%26+Frontend+Builder;Inter-NITER+Champion+%F0%9F%8F%86;Hackathon+Hacker+%F0%9F%9A%80;Turning+logic+into+interfaces" alt="Animated tagline: C Programmer, UI/UX Designer, Inter-NITER Champion, Hackathon Builder" />
 </a>
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=sojibislam003&label=Profile%20Views&color=8B5CF6&style=flat-square" alt="Profile views counter" />
 <img src="https://img.shields.io/github/followers/sojibislam003?label=Followers&style=flat-square&color=00E5FF&labelColor=0D1117" alt="GitHub followers" />
-<a href="https://codeforces.com/profile/sojibislam">
-  <img src="https://img.shields.io/badge/Codeforces-Competitor-1F8ACB?style=flat-square&logo=codeforces&logoColor=white&labelColor=0D1117" alt="Codeforces profile" />
-</a>
 <img src="https://img.shields.io/badge/Based%20in-Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9-10B981?style=flat-square&labelColor=0D1117" alt="Based in Bangladesh" />
 
 </div>
@@ -25,7 +22,7 @@
 
 Hi, I'm **Md Sojib Islam**, a developer who lives in two worlds at once:
 
-- 🧠 **Systems & algorithms.** I think in C, solve problems on Codeforces, and care about how things work under the hood.
+- 🧠 **Systems & logic.** I think in C and care about how things work under the hood.
 - 🎨 **Interfaces & experience.** I design and prototype clean, human-centered UIs, then bring them to life with HTML, CSS, JS, and React.
 
 I like building things where a solid logic core meets an interface that feels effortless, and I've been shipping hackathon projects that do exactly that.
@@ -39,10 +36,10 @@ I like building things where a solid logic core meets an interface that feels ef
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 Logic Side: C & CP
+### 🧠 Logic Side: C & Systems
 
-- Competitive problem solving on **Codeforces**
 - Clean, efficient **C** code
+- Strong problem-solving fundamentals
 - Careful thinking about edge cases and correctness
 
 ```c
@@ -157,19 +154,6 @@ Team **Kisu Parina**
 
 <br/>
 
-<!-- ===================== COMPETITIVE PROGRAMMING ===================== -->
-## 🏆 Competitive Programming
-
-<div align="center">
-
-<a href="https://codeforces.com/profile/sojibislam">
-  <img src="https://img.shields.io/badge/Codeforces-View%20My%20Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0D1117" alt="View my Codeforces profile" />
-</a>
-
-</div>
-
-<br/>
-
 <!-- ===================== GITHUB STATS ===================== -->
 ## 📊 GitHub Stats
 
@@ -188,9 +172,6 @@ Team **Kisu Parina**
 
 <a href="https://github.com/sojibislam003">
   <img src="https://img.shields.io/badge/GitHub-sojibislam003-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-</a>
-<a href="https://codeforces.com/profile/sojibislam">
-  <img src="https://img.shields.io/badge/Codeforces-sojibislam-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces profile" />
 </a>
 <a href="https://www.linkedin.com/in/md-s0jib-islam/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
