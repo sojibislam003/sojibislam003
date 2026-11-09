@@ -14,7 +14,7 @@
 
 ### 💻 About Me
 
-* 🌱 I'm currently studying at the **National Institute of Textile Engineering and Research (NITER)**.
+* 🌱 I'm currently studying at the **National Institute of Textile Engineering and Research (NITER)**[cite: 1].
 * ⚡ Passionate about solving algorithmic problems in **C** and competitive programming.
 * 🎨 Dedicated to building clean, user-centric interfaces and wireframes through **UI/UX Design**.
 
