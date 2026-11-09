@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:8B5CF6&height=220&section=header&text=Md%20Sojib%20Islam&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Where%20low-level%20logic%20meets%20human-centered%20design&descSize=17&descAlignY=60&animation=fadeIn" alt="Banner: Md Sojib Islam - where low-level logic meets human-centered design" width="100%" />
 
 <a href="https://github.com/sojibislam003">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=640&height=40&lines=C+Programmer+%26+Codeforces+Enthusiast;UI%2FUX+Designer+%26+Frontend+Builder;Hackathon+Hacker+%F0%9F%9A%80;Turning+algorithms+into+interfaces" alt="Animated tagline: C Programmer, UI/UX Designer, Hackathon Builder" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=640&height=40&lines=C+Programmer+%26+Codeforces+Enthusiast;UI%2FUX+Designer+%26+Frontend+Builder;Inter-NITER+Champion+%F0%9F%8F%86;Hackathon+Hacker+%F0%9F%9A%80;Turning+algorithms+into+interfaces" alt="Animated tagline: C Programmer, UI/UX Designer, Inter-NITER Champion, Hackathon Builder" />
 </a>
 
 <br/>
@@ -132,6 +132,31 @@ A bKash-integrated AI Support Assistant chat interface prototype, built for **SU
 
 <br/>
 
+<!-- ===================== ACHIEVEMENTS ===================== -->
+## 🏅 Achievements
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" valign="top">
+
+### 🏆 Champion
+**Inter-NITER Competition**
+
+Team **Kisu Parina**
+
+![Champion](https://img.shields.io/badge/Inter--NITER-Champion-F5B301?style=flat-square&labelColor=0D1117)
+![Team](https://img.shields.io/badge/Team-Kisu%20Parina-8B5CF6?style=flat-square&labelColor=0D1117)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
 <!-- ===================== COMPETITIVE PROGRAMMING ===================== -->
 ## 🏆 Competitive Programming
 
@@ -149,11 +174,6 @@ A bKash-integrated AI Support Assistant chat interface prototype, built for **SU
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sojibislam003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=8B5CF6&text_color=C9D1D9" alt="GitHub stats card for sojibislam003" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sojibislam003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" alt="Top languages card for sojibislam003" />
-
-<br/>
 
 <img src="https://streak-stats.demolab.com?user=sojibislam003&theme=tokyonight&hide_border=true&background=0D1117&stroke=8B5CF6&ring=00E5FF&fire=10B981&currStreakLabel=00E5FF" alt="GitHub streak stats for sojibislam003" />
 
