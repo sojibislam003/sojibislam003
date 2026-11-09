@@ -33,15 +33,13 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Connect & Stats
 
 <div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=sojibislam003&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Sojib's GitHub Stats" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sojibislam003&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </p>
+
+[![GitHub Streak](https://img.shields.io/badge/GitHub-Streak--Graph-blue?style=for-the-badge&logo=github)](https://github.com/sojibislam003)
+[![Codeforces Rating](https://img.shields.io/badge/Codeforces-Active-1F8ACB?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/sojibislam)
+
 </div>
 
 ---
