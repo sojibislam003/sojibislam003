@@ -1,6 +1,6 @@
-<div align="center">
-
-<img src="https://github.com/sojibislam003/sojibislam003/blob/main/assets/banner.svg" width="100%" alt="Sojib Islam - Developer Banner"/>
+<img src="https://raw.githubusercontent.com/sojibislam003/sojibislam003/main/assets/banner.svg"
+     width="100%"
+     alt="Sojib Islam - Developer Banner"/>
 
 <br/>
 
