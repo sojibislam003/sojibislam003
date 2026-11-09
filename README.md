@@ -88,8 +88,6 @@ const experience = {
 <br/>
 
 <!-- ===================== PROJECTS ===================== -->
-## 🚀 Featured Projects
-
 <table>
 <tr>
 <td width="33%" valign="top">
@@ -112,7 +110,6 @@ An energy optimization service with a dashboard, powered by LLM assistance. Buil
 A Bengali-language agricultural mobile web app interface with **weather updates for Savar, Dhaka**, crop scanning, hourly spray advisories, and AI chat support.
 
 ![UI/UX](https://img.shields.io/badge/UI%2FUX-Mobile%20Web-00E5FF?style=flat-square&labelColor=0D1117)
-![Language](https://img.shields.io/badge/Language-বাংলা-10B981?style=flat-square&labelColor=0D1117)
 ![AI](https://img.shields.io/badge/AI-Chat%20Support-8B5CF6?style=flat-square&labelColor=0D1117)
 
 </td>
